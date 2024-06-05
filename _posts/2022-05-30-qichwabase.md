@@ -6,10 +6,9 @@ description: "The aim of the project was to create a LOD version of a dictionary
 tags: project
 categories: datathon
 related_posts: true
-pretty_table: true
 ---
 
-### *WINNER OF THE BEST MINI-PROJECT AWARD*
+#### *WINNER OF THE BEST MINI-PROJECT AWARD*
 
 > **Participants:** Valeria Caruso, Ibai Guillén, Elwin Huaman
 **Tutor:** David Lindemann
