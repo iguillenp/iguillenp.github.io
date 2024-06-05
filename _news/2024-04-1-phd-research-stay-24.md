@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My doctoral research stay in Turin begins. Check the status ⏩ <a href="/blog/2024/phd-research-stay-24/">PhD Research Stay in Torino</a>.
+My PhD research stay in Turin begins. Check the status ⏩ <a href="/blog/2024/phd-research-stay-24/">PhD Research Stay in Torino</a>.

@@ -25,6 +25,5 @@ Activities:
 **Participation in the LREC-COLING 2024 conference**: Volunteer to attend the conference to learn about the latest developments in the field of NLP. Networking with other professionals and sharing research experiences.
 
 ## Activity during the stay
-
-- I presented a poster at the COMETE (COMputer SciEnce DeparTmEnt) PhD Workshop on my activity in political discourse analysis.
+- I presented a poster at the COMETE (COMputer SciEnce DeparTmEnt) PhD Workshop on my activity in political discourse analysis through ontologies.
 - I volunteered during the LREC-COLING 2024 conference and was able to attend the conference.
