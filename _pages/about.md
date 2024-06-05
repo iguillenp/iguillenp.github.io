@@ -19,3 +19,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am Ibai Guillén, a graduate in Computer Engineering and Digital Transformation of Companies from the University of Deusto. My passion for Artificial Intelligence led me to Madrid, where I completed a specialized master's degree in this field. I decided to delve even deeper into the field, and I am currently immersed in an exciting doctoral program in Artificial Intelligence. My research focuses on many tasks, but all related to knowledge temporal evolution. More specifically, I have worked with Dynamic Topic Models, Ontologies, Knowledge Graphs, Disinformation, Political Discourse and Hate Speech.
+
+I have accounts on different platforms that you can see at the bottom of the page, where you can see my activity. However, if you want to contact me my preferred option is the email.
