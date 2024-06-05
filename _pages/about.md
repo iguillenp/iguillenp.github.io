@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://oeg.fi.upm.es/'>Ontology Engineering Group</a>, <a href='https://www.upm.es/'>Universidad Politécnica de Madrid</a>, Madrid, Spain.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: https://2.gravatar.com/avatar/56e0d75591c66896f398fd7cb5b4be0ced03d68b440fad380d3beea0bb08e92a?size=256
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Campus de Montegancedo, s/n. ETSIINF, Office: 3206</p>
+    <p>28660, Boadilla del Monte</p>
+    <p>Madrid, Spain</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
