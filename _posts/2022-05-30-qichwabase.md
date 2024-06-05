@@ -12,8 +12,7 @@ pretty_table: true
 ### *WINNER OF THE BEST MINI-PROJECT AWARD*
 
 > **Participants:** Valeria Caruso, Ibai Guillén, Elwin Huaman
-
-> **Tutor:** David Lindemann
+**Tutor:** David Lindemann
 
 
 <div class="row mt-3">
