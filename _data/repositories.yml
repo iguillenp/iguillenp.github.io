@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - iguillenp
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - iguillenp/Recursos-Didacticos
+  - oeg-upm/PODIO
+  - oeg-upm/sparql-query-demo
+  - iguillenp/TSP-ACS
