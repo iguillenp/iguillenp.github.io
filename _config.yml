@@ -130,7 +130,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Ibai Guillén Pacho # blog_name will be displayed in your blog page
+blog_name: My Activity # blog_name will be displayed in your blog page
 blog_description: Here I post things ranging from my recent activity to my interests, take a look!
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -293,8 +293,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["conference", "workshop", "presentation", "poster"] # these tags will be displayed on the front page of your blog
-display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
+display_tags: ["project", "poster", "presentation"] # these tags will be displayed on the front page of your blog
+display_categories: ["conference", "workshop"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
