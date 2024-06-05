@@ -10,7 +10,7 @@ toc:
   beginning: true
 ---
 
-## Work plan doctoral stay
+## Work plan
 > **Duration:** 1 April to 7 July 2024
 
 **Main Objective:** To conduct research in the area of Natural Language Processing (NLP), focusing on hate speech detection and political discourse analysis, with a special focus on Spanish and Italian discourses.
