@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /repositories/
-title: Repositories
+permalink: /coding/
+title: Coding Experience
 description: This is my main activity on GitHub and my most interesting repositories. 
 nav: true
 nav_order: 4
