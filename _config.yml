@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Ibai
-middle_name: 
+middle_name: # None
 last_name: Guillén-Pacho
 email: ibai.guillen@upm.es
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -130,7 +130,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Ibai Guillen Pacho # blog_name will be displayed in your blog page
+blog_name: Ibai Guillén Pacho # blog_name will be displayed in your blog page
 blog_description: Personal website
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
