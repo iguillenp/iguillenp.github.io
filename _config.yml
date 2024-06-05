@@ -131,7 +131,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Ibai Guillén Pacho # blog_name will be displayed in your blog page
-blog_description: Personal website
+blog_description: Here I post things ranging from my recent activity to my interests, take a look!
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
