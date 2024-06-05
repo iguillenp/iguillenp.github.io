@@ -18,7 +18,8 @@ layout: default
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
-          {% if page.profile.image contains '://' %}
+          {% assign is_external_image = page.profile.image contains '://' %}
+          {% if is_external_image %}
             {% assign profile_image_path = page.profile.image %}
           {% else %}
             {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
@@ -31,10 +32,13 @@ layout: default
           {% endif %}
           {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
       30vw, 95vw"{% endcapture %}
-          {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-            cache_bust=true
-          %}
+            {% if is_external_image %}
+              <img src="{{ profile_image_path }}" class="{{ profile_image_class }}" alt="{{ page.profile.image }}">
+            {% else %}
+              {% 
+                include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+              %}
+            {% endif %}
         {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
