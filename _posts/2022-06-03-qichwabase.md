@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "4th Summer Datathon on Linguistic Linked Open Data (SD-LLOD-22)"
-date: 2022-06-3 0:0:00
+date: 2022-06-3 00:00:00
 description: "Dictionary LODification using Wikibase: Quechua language"
 tags: project
 categories: datathon
