@@ -8,7 +8,9 @@ categories: datathon
 related_posts: true
 ---
 
-Presented in the <a href="/news/2022/SD-LLOD-22/">4th Summer Datathon on Linguistic Linked Open Data (SD-LLOD-22)</a> was the *winner of the best mini-project award*.
+Presented in the [4th Summer Datathon on Linguistic Linked Open Data (SD-LLOD-22)](https://datathon2022.linkeddata.es/) was the *winner of the best mini-project award*. (<a href="/news/2022/SD-LLOD-22/">Click here to see the announcement</a>)
+
+([Click here to see the announcement](/news/2022/SD-LLOD-22/))
 
 > **Participants:** Valeria Caruso, Ibai Guillén, Elwin Huaman
 >
