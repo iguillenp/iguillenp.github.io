@@ -8,6 +8,8 @@ categories: datathon
 related_posts: true
 ---
 
+## Dictionary LODification using Wikibase: Quechua language
+
 > **Participants:** Valeria Caruso, Ibai Guillén, Elwin Huaman
 >
 > **Tutor:** David Lindemann
