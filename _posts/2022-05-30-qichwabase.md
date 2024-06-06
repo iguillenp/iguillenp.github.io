@@ -8,11 +8,11 @@ categories: datathon
 related_posts: true
 ---
 
-#### *WINNER OF THE BEST MINI-PROJECT AWARD*
+Presented in the <a href="/news/2022/SD-LLOD-22/">4th Summer Datathon on Linguistic Linked Open Data (SD-LLOD-22)</a> was the *winner of the best mini-project award*.
 
 > **Participants:** Valeria Caruso, Ibai Guillén, Elwin Huaman
-**Tutor:** David Lindemann
-
+>
+> **Tutor:** David Lindemann
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,7 +20,5 @@ related_posts: true
     </div>
     <div class="col-sm mt-3 mt-md-0">
         The aim of the project was to create a LOD version of a dictionary for the endangered South American language Quechua on Wikibase. The project began with the identification of suitable resources. Next there was the preprocessing and setup stage. This latter included: setting up QICHWABASE, programming a bot as well as normalising, cleaning and refining the data identified in the first phase. A pre-set ontological Wikibase application profile was identified as a model and was subsequently populated. Finally the data was published and a SPARQL endpoint made available.
-    
-        <a href="/news/2022/SD-LLOD-22/">Associated Event</a> 
     </div>
 </div>
