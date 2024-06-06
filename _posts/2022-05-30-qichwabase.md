@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Dictionary LODification using Wikibase: Quechua language"
+title: "4th Summer Datathon on Linguistic Linked Open Data (SD-LLOD-22)"
 date: 2022-06-3 0:0:00
-description: "The aim of the project was to create a LOD version of a dictionary for the endangered South American language Quechua on Wikibase. The project began with the identification of suitable resources. Next there was the preprocessing and setup stage. This latter included: setting up QICHWABASE, programming a bot as well as normalising, cleaning and refining the data identified in the first phase. A pre-set ontological Wikibase application profile was identified as a model and was subsequently populated. Finally the data was published and a SPARQL endpoint made available."
+description: "Dictionary LODification using Wikibase: Quechua language"
 tags: project
 categories: datathon
 related_posts: true
