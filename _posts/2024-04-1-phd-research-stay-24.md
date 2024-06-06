@@ -5,6 +5,7 @@ date: 2024-04-1 0:0:00
 description: "Details of my research stay in Turin from 1 April to 7 July 2024, focusing on NLP research on hate speech detection and political discourse analysis in Spanish and Italian."
 tags: poster volunteer
 categories: research-stay
+featured: true
 related_posts: true
 toc:
   beginning: true
