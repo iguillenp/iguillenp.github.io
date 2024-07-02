@@ -26,7 +26,6 @@
     {
       "name": "Ontology Engineering Group, Universidad Politécnica de Madrid",
       "position": "Pre-Doctoral Researcher",
-      "url": "",
       "startDate": "2022-11-02",
       "endDate": "",
       "summary": "Use of natural language processing techniques and language models. Facilitating the temporal analysis of document collections based on the combination of probabilistic models with knowledge representation techniques."
@@ -34,7 +33,6 @@
     {
       "name": "Ontology Engineering Group, Universidad Politécnica de Madrid",
       "position": "Research Assistant",
-      "url": "",
       "startDate": "2022-03-01",
       "endDate": "2022-07-31",
       "summary": "Use of natural language processing techniques and language models. Development and study of COVID-19 scientific article topics. Analysis of the evolution over time of the use of drugs in the treatment of SARS-CoV-19."
@@ -42,7 +40,6 @@
     {
       "name": "Everis (now NTT Data)",
       "position": "Internship",
-      "url": "",
       "startDate": "2020-09-01",
       "endDate": "2021-02-28",
       "summary": "Integration and migration of services to Azure cloud infrastructures. Resolution of front-end incidents. Development of APIs and documentation."
@@ -50,14 +47,10 @@
     {
       "name": "DeustoTech, University of Deusto",
       "position": "Research Assistant",
-      "url": "",
       "startDate": "2019-10-01",
       "endDate": "2020-06-30",
       "summary": "Development of a platform for auditing open data on blockchain. Development of smart-contracts on the Ethereum network. Development of a plugin for the CKAN platform."
     }
-  ],
-  "volunteer": [
-
   ],
   "education": [
     {
