@@ -9,15 +9,16 @@ layout: default
         {% if page.cv_pdf %}
           {% if item.redirect contains '://' %}
             <a
-              href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
+              href="{{ page.cv_pdf }}"
               target="_blank"
               rel="noopener noreferrer"
               class="float-right"
               ><i class="fa-solid fa-file-pdf"></i
             ></a>
+            
           {% else %}
             <a
-              href="{{ page.cv_pdf }}"
+              href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
               target="_blank"
               rel="noopener noreferrer"
               class="float-right"
