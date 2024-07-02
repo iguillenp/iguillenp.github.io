@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Invited talk: Political Discourse Formalization and Exploitation: A use case in the Community of Madrid"
+title: "Invited talk: 'Political Discourse Formalization and Exploitation: A use case in the Community of Madrid'"
 date: 2023-11-22 00:00:00
 description: "Formalising political speech with ontologies, an approach to exploit the discourse of different parties in different media over time"
 tags: talk
