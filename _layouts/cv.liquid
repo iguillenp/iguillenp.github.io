@@ -7,7 +7,7 @@ layout: default
       <h1 class="post-title">
         {{ page.title }}
         {% if page.cv_pdf %}
-          {% if item.redirect contains '://' %}
+          {% if page.cv_pdf contains '://' %}
             <a
               href="{{ page.cv_pdf }}"
               target="_blank"
@@ -15,7 +15,6 @@ layout: default
               class="float-right"
               ><i class="fa-solid fa-file-pdf"></i
             ></a>
-            
           {% else %}
             <a
               href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
