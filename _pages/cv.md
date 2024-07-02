@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 5
 cv_pdf: https://cvn.fecyt.es/editor/cvnOnline/0000-0001-7801-8815
