@@ -137,7 +137,7 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 related_blog_posts:
   enabled: true
@@ -231,12 +231,12 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
+  - _pages/unused/
+  - _pages/unused
   - purgecss.config.js
   - README.md
   - readme_preview/
   - vendor
-  - _pages/projects.md
 keep_files:
   - CNAME
   - .nojekyll
