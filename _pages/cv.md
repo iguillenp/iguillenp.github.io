@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: cvn28-05-2025.pdf
+cv_pdf: CV_eng.pdf
 description: This is a brief summary of the CV, more information is available in the PDF.
 toc:
   sidebar: left
