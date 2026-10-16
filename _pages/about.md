@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: <a href='https://oeg.fi.upm.es/'>Ontology Engineering Group</a>, <a href='https://www.upm.es/'>Universidad Politécnica de Madrid</a>, Madrid, Spain.
+subtitle: "<a href='https://oeg.fi.upm.es/'>Ontology Engineering Group</a>, <a href='https://www.upm.es/'>Universidad Politécnica de Madrid</a>, Madrid, Spain."
 
 profile:
   align: right
