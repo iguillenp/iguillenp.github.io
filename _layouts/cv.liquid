@@ -30,7 +30,6 @@ layout: default
         <p class="post-description">{{ page.description }}</p>
       {% endif %}
     </header>
-
     <article>
       <div class="cv">
         {% for entry in site.data.cv %}
@@ -81,14 +80,11 @@ layout: default
             ></a>
           {% endif %}
         {% endif %}
-
-        
       </h1>
       {% if page.description %}
         <p class="post-description">{{ page.description }}</p>
       {% endif %}
     </header>
-
     <article>
       <div class="cv">
         {% for data in site.data.resume %}
@@ -128,7 +124,6 @@ layout: default
                 {% when 'references' %}
                   {% include resume/references.liquid %}
                 {% else %}
-
               {% endcase %}
             </div>
           </div>
